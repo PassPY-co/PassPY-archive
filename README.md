@@ -1,2 +1,2 @@
 # PassPY-archive
-for outdated passPY versions (pre 3.1 stable)
+for outdated/deprecitated passPY versions (pre 3.1 stable)
